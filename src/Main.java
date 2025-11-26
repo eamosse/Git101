@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Etape 1: commit - Enregister ses derniers changements");
         System.out.println("Etape 2: push -  Publiser ses changements");
         System.out.println("Hello World of Whitchy AUGUSTIN ");
+        System.out.println("Momnsen_try");
     }
 }
